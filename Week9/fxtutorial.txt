@@ -1,0 +1,13 @@
+From the File menu, choose New Project.
+In the JavaFX application category, choose JavaFX FXML Application. Click Next.
+Name the project FXMLExample and click Finish.
+NetBeans IDE opens an FXML project that includes the code for a basic Hello World application. The application includes three files:
+FXMLExample.java. This file takes care of the standard Java code required for an FXML application.
+Sample.fxml. This is the FXML source file in which you define the user interface.
+SampleController.java. This is the controller file for handling the mouse and keyboard input.
+Rename SampleController.java to FXMLExampleController.java so that the name is more meaningful for this application.
+In the Projects window, right-click SampleController.java and choose Refactor then Rename.
+Enter FXMLExampleController, and click Refactor.
+Rename Sample.fxml to fxml_example.fxml.
+Right-click Sample.fxml and choose Rename.
+Enter fxml_example and click OK.
